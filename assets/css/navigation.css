@@ -1,7 +1,7 @@
 /* Navbar */
 
 nav {
-    display: flex;
+    /* display: flex; */
     justify-content: space-between;
     padding: 25px 10%;
     color: white;
