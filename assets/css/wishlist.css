@@ -1,8 +1,8 @@
-main ul {
+.main ul {
     list-style-type: none;
 }
 
-main li {
+.main li {
     text-decoration: none;
     font-size: large;
 }
