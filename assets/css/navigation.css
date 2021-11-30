@@ -17,7 +17,7 @@ nav h1 {
 /* Nav Unordered List */
 
 nav ul {
-    display: flex;
+    /* display: flex; */
     list-style-type: none;
 }
 
